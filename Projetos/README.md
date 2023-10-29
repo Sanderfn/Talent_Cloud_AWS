@@ -1,7 +1,8 @@
-# seção de Projeto
-#
-Este repositório será utilizado o para armazenamento dos dados e projetos do bootcamp Talent Cloud
+# Seção de Projeto
+
+Esta seção do repositório será utilizada o para armazenamento dos códigos desenvolvidos para os projetos do curso. 
 
 |Nome do Projeto|Descrição|Arquivo|
 |---------------|---------|-------|
-|Projeto Calculadora| O códio tem a finalidade de simular uma calculadora com+ dois números com três parâmetros: os dois primeiros serão os números da operação e o terceiro será a entrada que definirá a operação a ser executada. Considera a seguinte definição: | [Arquivo](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/projeto-Calculadora.py) |
+|Projeto Calculadora| O código tem a finalidade de simular uma calculadora utilizando dois números para a operação e um parametro que definirá o tipo de operação a ser executada.| [Arquivo](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/projeto-Calculadora.py) |
+|Projeto Calculadora V2|O projeto trata-se da atualização do projeto calculadora de forma a possibilitar utilização do comando input para recebimento dos parametros de operação.|[Arquivo](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/Projeto_Calculadora-V2.py)|
