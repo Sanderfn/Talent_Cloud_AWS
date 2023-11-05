@@ -2,9 +2,13 @@
 
 Esta seção do repositório será utilizada o para armazenamento dos códigos desenvolvidos para os projetos do curso. 
 
-|Nome do Projeto|Descrição|Arquivo|
-|---------------|---------|-------|
-|Projeto Imprimindo Números| Criação de 3 códigos para imprimir um número para cada um dos 20 andares de um hotel, com exceção do andar 13º pois o dono é superticioso. Em todos os cenários foi solicitado que a contagem fosse regressiva.| [Arquivo](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/C%C3%B3digo%20-%209.py) |
-|Projeto Calculadora| O código tem a finalidade de simular uma calculadora utilizando dois números para a operação e um parametro que definirá o tipo de operação a ser executada.| [Arquivo](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/projeto-Calculadora.py) |
-|Projeto Calculadora V2|O projeto trata-se da atualização do projeto calculadora de forma a possibilitar utilização do comando input para recebimento dos parametros de operação.|[Arquivo](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/Projeto_Calculadora-V2.py)|
-|Projeto Idade|O projeto solicita ao usuário que informe um nome e o ano de nascimento limite entre os anos de 1922 e 2021 e rtorna o nome informado e a idade em anos considerando o ano de 2022.|[Arquivo](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/Projeto_Idade.py)|
+|Nome do Projeto|Descrição|
+|---------------|---------|
+|[Projeto Imprimindo Números](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/C%C3%B3digo%20-%209.py) | Criação de 3 códigos para imprimir um número para cada um dos 20 andares de um hotel, com exceção do andar 13º pois o dono é superticioso. Em todos os cenários foi solicitado que a contagem fosse regressiva.|
+|[Projeto Calculadora](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/projeto-Calculadora.py)| O código tem a finalidade de simular uma calculadora utilizando dois números para a operação e um parametro que definirá o tipo de operação a ser executada.|
+|[Projeto Calculadora V2](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/Projeto_Calculadora-V2.py)| O projeto trata-se da atualização do projeto calculadora de forma a possibilitar utilização do comando input para recebimento dos parametros de operação.|
+|[Projeto Idade](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/Projeto_Idade.py)|O projeto solicita ao usuário que informe um nome e o ano de nascimento limite entre os anos de 1922 e 2021 e rtorna o nome informado e a idade em anos considerando o ano de 2022.|
+|[Desenvolvimento Extra 1.1](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/DesenvolvimentoEntra1.1.py) | Neste projeto são declarados dois arrays, cada um com cinco elementos sendo solicitado a impressão deles terminal.|
+|[Desenvolvimento Extra 1.2](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/DesenvolvimentoExtra1.2.py)| Neste projeto é utilizado um array disponibilizado pelo curso, para o qual deve-se imprimir os códigos dos indices 2, 9 e 14 no terminal.|
+|[Desenvolvimento Extra 1.3](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/desenvolvimentoExtra1.3.py) | Neste projeto é utilizado um array disponibilizado pelo curso, para o qual foi criado uma estrutura de repetição utilizando o for para imprimir todos os itens da lista adicionando outros valores na mensagem de saída.|
+|[Desenvolvimento Extra 1.4](https://github.com/Sanderfn/Talent_Cloud_AWS/blob/main/Projetos/DesenvolvimentoExtr1.4.py)| Neste projeto é utilizado um array disponibilizado pelo curso, que foi atualizado substituindo dois itens da lista inicial, posteriormente criando o comando para imprimir a lista atualizada no terminal e como desafio adicional foi incluidos mais dois itens na lista utilizando o comando append().|
